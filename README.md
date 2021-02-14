@@ -1,6 +1,5 @@
 <p align="center">
-	<a href="https://github.com/faroit"><img src="https://img.shields.io/github/followers/faroit.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/faroit"><img src="https://img.shields.io/twitter/follow/faroit?label=Twitter&style=social" alt="Twitter"></a>
+	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faroit&count_private=true)
 </p>
 <!-- 
 - 🔭 I’m currently working on ...
