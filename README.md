@@ -1,6 +1,4 @@
-<p align="center">
-	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faroit&count_private=true)
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faroit&count_private=true)
 <!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
